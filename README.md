@@ -9,11 +9,11 @@ This repository does not contain the actual code, but is rather used as a "compa
 ## Features
 
 - [x] EPUB 2.x and 3.x support
-- [x] Audiobook support
+- [x] W3C Audiobooks and Readium Audiobooks support
 - [ ] PDF support
 - [ ] CBZ support
 - [x] Divina support
-- [x] Readium LCP support
+- [x] Readium LCP support (the best DRM technology on the market)
 - [x] Custom styles
 - [x] Night & sepia modes
 - [x] Pagination and scrolling
