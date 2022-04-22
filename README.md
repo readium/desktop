@@ -9,18 +9,18 @@ This repository does not contain the actual code, but is rather used as a "compa
 ## Features
 
 - [x] EPUB 2.x and 3.x support
+- [x] EPUB 3 FXL support
+- [x] RTL (right to left) support
 - [x] W3C Audiobooks and Readium Audiobooks support
-- [ ] PDF support
-- [ ] CBZ support
+- [x] PDF support
 - [x] Divina support
+- [x] DAISY 2.02 and 3 support
 - [x] Readium LCP support (the best DRM technology on the market)
 - [x] Custom styles
 - [x] Night & sepia modes
 - [x] Pagination and scrolling
 - [x] Table of contents
 - [x] OPDS 1.x and 2.0 support
-- [x] FXL support
-- [x] RTL support
 - [x] Search in EPUB
 - [x] Bookmarks
 - [ ] Highlights/annotations
